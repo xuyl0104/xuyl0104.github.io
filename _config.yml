@@ -1,4 +1,4 @@
-title: Hello, world! I'm Yunlong Xu
+title: Hi there. This is Yunlong Xu
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Yunlong Xu # add your name
 author-img: yunlong.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: Student studying CS; Machine Learning, NLP, CV; 国际交流主义石像; 退堂鼓专业演奏人员. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: xuyl0104 # add your Github handle
